@@ -19,9 +19,8 @@ The script includes several tests to show correct output and error messages.
 Argument must be an integer value.
 Argument must be an integer greater than 0.
 Argument must be an integer greater than 0.
+
 Technologies
 Python 3.x
-
 Data type validation (isinstance)
-
 for loops
